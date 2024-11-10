@@ -3,7 +3,7 @@ How setup:
 
 `source venv/bin/activate`
 
-`pip install requests bs4`
+`pip install requests bs4, requests, faker`
 
 How run:
 `python app.py URL -d PATH`
